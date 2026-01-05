@@ -1,0 +1,11 @@
+Traveler_ID,Age,Gender,Destination,Travel_Type,Trip_Duration_Days,Season,Accommodation_Type,Budget_USD,Frequent_Flyer
+1,25,Male,Paris,Leisure,7,Summer,Hotel,1500,Yes
+2,34,Female,New York,Business,10,Winter,Airbnb,2500,No
+3,40,Male,Tokyo,Leisure,5,Spring,Hotel,1200,Yes
+4,28,Female,London,Leisure,14,Autumn,Hostel,1000,Yes
+5,22,Male,Rome,Business,4,Summer,Hotel,1800,No
+6,55,Female,Dubai,Business,7,Winter,Resort,3000,Yes
+7,30,Male,Sydney,Leisure,6,Spring,Airbnb,1300,No
+8,45,Female,Barcelona,Leisure,9,Autumn,Hotel,1400,Yes
+9,60,Male,Amsterdam,Business,11,Summer,Airbnb,2200,No
+10,33,Female,Cape Town,Leisure,8,Spring,Hostel,1100,No
